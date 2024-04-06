@@ -2,3 +2,12 @@
     width: 40px !important;
     height: 40px !important;
 }
+
+body {
+    color: #fff;
+    font-family: "Raleway", sans-serif;
+}
+
+a{
+    font-size: 16px;
+}
